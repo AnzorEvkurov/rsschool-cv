@@ -21,9 +21,7 @@ Frontend developer
 
 I would really like to study programming next year.
 
-
 I do not want to live in need of everyday things. I would like to help my parents, brothers and sisters.
-
 
 Strengths I would call craving for knowledge. I can no longer just sit and laze around like I used to. I want to learn and develop.
 
@@ -93,7 +91,6 @@ for (var i = 0; i < operationButtons.length; i++) {
 ***
 
 ## Courses: 
-
 
 no completed courses
 
