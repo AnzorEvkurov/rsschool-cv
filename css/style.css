@@ -384,3 +384,22 @@ body {
 }
 
 /* ------------------Footer------------------ */
+
+.footer {
+    height: 100px;
+    background-color: #ff9022;
+}
+
+.footer__inner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 100px;
+    justify-items: center;
+    align-items: center;
+}
+.footer__date {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #232527;
+}
